@@ -131,5 +131,3 @@ Dream: Work in the NFL in Data Science or Team Operations.
 ## ⭐ If you found this project interesting
 
 Feel free to connect with me on LinkedIn and check out the full dashboard.
-
-![Dashboard Preview](assets/dashboard_preview.png)
