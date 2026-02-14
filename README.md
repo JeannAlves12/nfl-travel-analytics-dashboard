@@ -78,15 +78,9 @@ Dashboard opens at:
 
 http://localhost:8501
 
----
+## 🚀 Live Dashboard
 
-## 📷 Dashboard Preview
-
-Add a screenshot here after running Streamlit:
-
-![Dashboard Preview](assets/dashboard_preview.png)
-
-(You can create an `assets/` folder and save an image named `dashboard_preview.png`)
+👉 https://jeann-nfl-travel-dashboard.streamlit.app
 
 ---
 
